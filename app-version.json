@@ -1,7 +1,7 @@
 {
   "AWSEBDockerrunVersion": "1",
   "Image": {
-    "Name": "docker.io/securingdevops/invoicer",
+    "Name": "hub.docker.com/repository/docker/genteel1/invoicer-chapter2",
     "Update": "true"
   },
   "Ports": [
